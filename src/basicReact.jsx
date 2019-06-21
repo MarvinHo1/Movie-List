@@ -1,1 +1,0 @@
-const jsx = <div>AHHHHHH</div>
